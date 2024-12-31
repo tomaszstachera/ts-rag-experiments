@@ -7,7 +7,7 @@ Prerequisites:
 - [Python](https://www.python.org/)
 - [Docker](https://www.docker.com/)
 
-Related Medium article: ___
+Related Medium article: https://medium.com/@stacheratomasz/somebody-call-911-we-need-a-rag-here-hallucinations-llm-and-football-part-1-experiments-21914f5ca2f8
 
 Simplified architecture:
 
