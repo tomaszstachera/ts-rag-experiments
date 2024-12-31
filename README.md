@@ -8,3 +8,7 @@ Prerequisites:
 - [Docker](https://www.docker.com/)
 
 Related Medium article: ___
+
+Simplified architecture:
+
+![architecture-diagram](images/arch.png "Architecture")
